@@ -114,5 +114,3 @@ question = 'What did ancient greeks refer to Indians as?'
 
 answer = get_answer(url, question)
 print(answer)
-
-
