@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>About</title>
+</head>
+
+<body>
+    {% extends "template.html" %}
+    {% block content %}
+
+    <h1> Question Answering Result </h1>
+    
+    <p><b>Input URL:</b> {{ result_url }}</p>
+    <p><b>Question:</b> {{ result_question }}</p>
+    <br/>
+    <p><b>Answer:</b> {{ result_answer }}</p>
+    {% endblock %}
+</body>
+
+</html>

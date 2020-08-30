@@ -1,10 +1,23 @@
-<html>
-    <head>
-        <title>Test GUI2 - Flask</title>
-    </head>
-    <body>
-        <h1>Hello Nirav. This is the first test.</h1>
-        <p>First Paragraph.</p>
-        <p>Second Paragraph</p>
-    </body>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Home Page</title>
+</head>
+
+<body>
+  {% extends "template.html" %}
+  {% block content %}
+
+  <h1> Question Answering Form </h1>
+  <form action="{{ url_for('handle_data') }}" method="post">
+    <p>Question: </p><input type="text" name="inputQuestion">
+    <p>URL: </p><input type="text" name="inputURL">
+    <input type="submit">
+  </form>
+
+  {% endblock %}
+</body>
+
 </html>
