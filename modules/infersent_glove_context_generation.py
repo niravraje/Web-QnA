@@ -56,14 +56,14 @@ def get_most_similar_sentences(question_vector, embeddings, sent_count):
 def prepare_model():
     # Load the InferSent model
     model_version = 1
-    MODEL_PATH = "/content/drive/My Drive/colab_files/InferSent/encoder/infersent%s.pkl" % model_version
+    MODEL_PATH = "C:/Users/niraje/Documents/MLG/InferSent/encoder/infersent%s.pkl" % model_version
     params_model = {'bsize': 64, 'word_emb_dim': 300, 'enc_lstm_dim': 2048,
                     'pool_type': 'max', 'dpout_model': 0.0, 'version': model_version}
     model = InferSent(params_model)
     model.load_state_dict(torch.load(MODEL_PATH))
     
     # Set the GloVe directory path:
-    W2V_PATH = '/content/drive/My Drive/colab_files/word_embeddings/glove/glove.6B.300d.txt'
+    W2V_PATH = 'C:/Users/niraje/Documents/MLG/word_vectors/glove/glove.6B.300d.txt'
     model.set_w2v_path(W2V_PATH)
     
     # Load embeddings of K most frequent words
