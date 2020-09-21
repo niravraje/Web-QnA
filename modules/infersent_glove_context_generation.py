@@ -104,3 +104,43 @@ def generate_context(url, question):
     context_para = ' '.join(context_list)
     
     return context_para
+
+def generate_context_from_doc(doc_text, question):
+
+    # Get the sentence tokens for the entire article text.
+    article_sentences = nltk.sent_tokenize(doc_text)
+
+    # Clean the article sentence to remove extra whitespaces and reference numbers (such as "[23]")
+    for i in range(len(article_sentences)):
+        article_sentences[i] = re.sub(r'\[\d+\]', '', article_sentences[i])
+        article_sentences[i] = re.sub(r'\[\w\]', '', article_sentences[i])
+        article_sentences[i] = re.sub(r'\s+', ' ', article_sentences[i]).strip()
+    
+    # Get the prepared model using GloVe/InferSent embeddings as its vocabulary.
+    model = prepare_model()
+    
+    # Encode sentences
+    embeddings = model.encode(article_sentences, bsize=128, tokenize=False, verbose=True)
+    
+    # Encode the question
+    question = [question]
+    question_vector = model.encode(question, bsize=128, tokenize=False, verbose=True)[0]
+    
+    # Get most similar "N" sentence tokens i.e. sent_count
+    most_sim_sentences = get_most_similar_sentences(question_vector, embeddings, sent_count = 30)
+    
+    # Build context paragraph.
+    # Choose max_token_count such that total token count (question and context) is < 512.\
+    context_list = []
+    context_token_count = 0
+    max_token_count = 400
+
+    for sent_index, similarity_score in most_sim_sentences:
+        sent_token_count = len(nltk.word_tokenize(article_sentences[sent_index]))
+        if context_token_count + sent_token_count < max_token_count:
+            context_list.append(article_sentences[sent_index])
+            context_token_count += sent_token_count
+
+    context_para = ' '.join(context_list)
+    
+    return context_para

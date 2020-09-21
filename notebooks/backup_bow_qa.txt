@@ -1,0 +1,244 @@
+
+Sentence 0: India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya), is a country in South Asia.
+Enter question: What is India?
+
+Sentence 1: Modern humans arrived on the Indian subcontinent from Africa no later than 55,000 years ago.
+Enter question: When did modern humans arrive on the Indian subcontinent?
+
+Sentence 2: The Dravidian languages of India were supplanted in the northern and western regions.
+Enter question: Where were the Dravidian languages of India supplanted?
+
+Sentence 3: In South India, the Middle kingdoms exported Dravidian-languages scripts and religious cultures to the kingdoms of Southeast Asia.
+Enter question: Where were the Dravidian-languages scripts and religious cultures exported?
+
+Sentence 4: In the Punjab, Sikhism emerged, rejecting institutionalised religion.
+Enter question: What emerged in Punjab which rejected instituionalized religion?
+
+Sentence 5: The rights promised to Indians were granted slowly, but technological changes were introduced, and ideas of education, modernity and the public life took root.
+Enter question: Which ideas took root in India due to technological changes?
+
+Sentence 6: It is a pluralistic, multilingual and multi-ethnic society.
+Enter question: Is India a multilingual society?
+
+Sentence 7: It has a space programme which includes several planned or completed extraterrestrial missions.
+Enter question: Does India have a space programme?
+
+Sentence 8: It has disputes over Kashmir with its neighbours, Pakistan and China, unresolved since the mid-20th century.
+Enter question: Which neighbours does India have a dispute with over Kashmir?
+
+Sentence 9: India's wildlife, which has traditionally been viewed with tolerance in India's culture, is supported among these forests, and elsewhere, in protected habitats.
+Enter question: What is supported in India's forests and protected habitats?
+
+Sentence 10: A modern rendering of the historical name Bharatavarsha, which applied originally to a region of the Gangetic Valley, Bharat gained increased currency from the mid-19th century as a native name for India.
+Enter question: When did the name Bharat gain increased currency as a native name for India?
+
+Sentence 11: The earliest known modern human remains in South Asia date to about 30,000 years ago.
+Enter question: How many years ago does the earliest known modern human remain in India?
+
+Sentence 12: During the period 2000–500 BCE, many regions of the subcontinent transitioned from the Chalcolithic cultures to the Iron Age ones.
+Enter question: When did the regions of the Indian subcontinent transitioned from the Chalcolithic cultures to the Iron Age ones?
+
+Sentence 13: On the Deccan Plateau, archaeological evidence from this period suggests the existence of a chiefdom stage of political organisation.
+Enter question: What does archaeological evidence suggest about the Deccan Plateau?
+
+Sentence 14: Jainism came into prominence during the life of its exemplar, Mahavira.
+Enter question: When did Jainism come into prominence?
+
+Sentence 15: The empire was once thought to have controlled most of the subcontinent except the far south, but its core regions are now thought to have been separated by large autonomous areas.
+Enter question: How much area did the empire control in the subcontinent and what were its core regions? 
+
+Sentence 16: By the 4th and 5th centuries, the Gupta Empire had created a complex system of administration and taxation in the greater Ganges Plain; this system became a model for later Indian kingdoms.
+Enter question: Which empire had created a complex system of administration and taxation in the greater Ganges Plain which became a model for later Indian kingdoms?
+
+Sentence 17: The Indian early medieval age, 600 CE to 1200 CE, is defined by regional kingdoms and cultural diversity.
+Enter question: What defines the Indian early medieval age, 600 CE to 1200 CE?
+
+Sentence 18: No ruler of this period was able to create an empire and consistently control lands much beyond his core region.
+Enter question: Could any ruler of this period control lands beyond their core region?
+
+Sentence 19: They were imitated all over India and led to both the resurgence of Hinduism and the development of all modern languages of the subcontinent.
+Enter question: What led to both the resurgence of Hinduism and the development of modern languages in the subcontinent?
+
+Sentence 20: Indian merchants, scholars, and sometimes armies were involved in this transmission; South-East Asians took the initiative as well, with many sojourning in Indian seminaries and translating Buddhist and Hindu texts into their languages.
+Enter question: Who took the initiative to sojourn in Indian seminaries and translate Buddhist and Hindu texts?
+
+Sentence 21: By repeatedly repulsing Mongol raiders in the 13th century, the sultanate saved India from the devastation visited on West and Central Asia, setting the scene for centuries of migration of fleeing soldiers, learned men, mystics, traders, artists, and artisans from that region into the subcontinent, thereby creating a syncretic Indo-Islamic culture in the north.
+Enter question: Who saved India from the devastation visited on West and Central Asia and how was a sycretic Indo-Islamic culture created in the north?
+
+Sentence 22: The resulting Mughal Empire did not stamp out the local societies it came to rule.
+Enter question: What did the resulting Mughal Empire do to the local societies it came to rule?
+
+Sentence 23: The relative peace maintained by the empire during much of the 17th century was a factor in India's economic expansion, resulting in greater patronage of painting, literary forms, textiles, and architecture.
+Enter question: In the 17th century, what was a factor in India's economic expansion?
+
+Sentence 24: By the early 18th century, with the lines between commercial and political dominance being increasingly blurred, a number of European trading companies, including the English East India Company, had established coastal outposts.
+Enter question: When did European trading companies, including the English East India Company establish coastal outposts in India?
+
+Sentence 25: Many historians consider this to be the onset of India's colonial period.
+Enter question: Who considers this to be the onset of India's colonial period?
+
+Sentence 26: These included the consolidation and demarcation of sovereignty, the surveillance of the population, and the education of citizens.
+Enter question: What other things were followed with the consolidation and demarcation of sovereignty?
+
+Sentence 27: Although the rebellion was suppressed by 1858, it led to the dissolution of the East India Company and the direct administration of India by the British government.
+Enter question: What happened after the rebellion was suppressed in 1858 with respect to the East India Company?
+
+Sentence 28: There was an increase in the number of large-scale famines, and, despite the risks of infrastructure development borne by Indian taxpayers, little industrial employment was generated for Indians.
+Enter question: What were the things that followed the increase in the number of large-scale famines for Indian taxpayers?
+
+Sentence 29: It was marked by British reforms but also repressive legislation, by more strident Indian calls for self-rule, and by the beginnings of a nonviolent movement of non-co-operation, of which Mohandas Karamchand Gandhi would become the leader and enduring symbol.
+Enter question: Who became the leader and enduring symbol of the nonviolent movement of non-co-operation in India?
+
+Sentence 30: Vital to India's self-image as an independent nation was its constitution, completed in 1950, which put in place a secular and democratic republic.
+Enter question: As an independent nation, when was India's constitution completed?
+
+Sentence 31: Yet, India is also shaped by seemingly unyielding poverty, both rural and urban; by religious and caste-related violence; by Maoist-inspired Naxalite insurgencies; and by separatism in Jammu and Kashmir and in Northeast India.
+Enter question: India is shaped by separatism in which states in North India?
+
+Sentence 32: India's defining geological processes began 75 million years ago when the Indian Plate, then part of the southern supercontinent Gondwana, began a north-eastward drift caused by seafloor spreading to its south-west, and later, south and south-east.
+
+Enter question: When did India's geological processes begin that began a north-eastward drift caused by seafloor spread?
+
+Sentence 33: Cut off from the plain by the ancient Aravalli Range lies the Thar Desert.
+Enter question: Where does the Thar Desert lie?
+
+Sentence 34: To the south, the remaining peninsular landmass, the Deccan Plateau, is flanked on the west and east by coastal ranges known as the Western and Eastern Ghats; the plateau contains the country's oldest rock formations, some over one billion years old.
+Enter question: To the south, which plateau contains the country's oldest rock formations?
+
+Sentence 35: Major Himalayan-origin rivers that substantially flow through India include the Ganges and the Brahmaputra, both of which drain into the Bay of Bengal.
+Enter question: The Himalayan-origin rivers including the Ganges and Brahmaputra drain into which water body?
+
+Sentence 36: India has two archipelagos: the Lakshadweep, coral atolls off India's south-western coast; and the Andaman and Nicobar Islands, a volcanic chain in the Andaman Sea.
+Enter question: What are the names of India's two archipelagos?
+
+Sentence 37: Four major climatic groupings predominate in India: tropical wet, tropical dry, subtropical humid, and montane.
+Enter question: Which are the major climatic groupings that predominate India?
+
+Sentence 38: India also contains four of the world's 34 biodiversity hotspots, or regions that display significant habitat loss in the presence of high endemism.
+Enter question: How many biodiversity hotspots or regions that display significant habitat does India contain?
+
+Sentence 39: It predominates in the tropical moist forest of the Andaman Islands, the Western Ghats, and Northeast India.
+Enter question: Which ares have a tropical moist forest in India?
+
+Sentence 40: Among the Indian subcontinent's notable indigenous trees are the astringent Azadirachta indica, or neem, which is widely used in rural Indian herbal medicine, and the luxuriant Ficus religiosa, or peepul, which is displayed on the ancient seals of Mohenjo-daro, and under which the Buddha is recorded in the Pali canon to have sought enlightenment, Many Indian species have descended from those of Gondwana, the southern supercontinent from which India separated more than 100 million years ago.
+Enter question: In the Indian subcontinent, which are the notable indigenous trees?
+
+Sentence 41: This had the effect of lowering endemism among India's mammals, which stands at 12.6%, contrasting with 45.8% among reptiles and 55.8% among amphibians.
+Enter question: What is the percent of endemism among India's mammals, reptiles and amphibians?
+
+Sentence 42: Critically endangered species include: the gharial, a crocodilian; the great Indian bustard; and the Indian white-rumped vulture, which has become nearly extinct by having ingested the carrion of diclofenac-treated cattle.
+Enter question: Which are India's critically endangered species?
+
+Sentence 43: India hosts more than five hundred wildlife sanctuaries and thirteen biosphere reserves, four of which are part of the World Network of Biosphere Reserves; twenty-five wetlands are registered under the Ramsar Convention.
+Enter question: How many wildlife sanctuaries and biosphere reserves does India host?
+
+Sentence 44: For most of the period between 1950—when India first became a republic—and the late 1980s, the Congress held a majority in the parliament.
+Enter question: Which party held a majority in the parliament in the period between 1950 and the late 1980s?
+
+Sentence 45: Following public discontent with the state of emergency she declared in 1975, the Congress was voted out of power in 1977; the then-new Janata Party, which had opposed the emergency, was voted in.
+Enter question: When was the Congress voted out of power and which party was voted in?
+
+Sentence 46: Elections were held again in 1991; no party won an absolute majority.
+Enter question: When the elections were held in 1991, which party won an absolute majority?
+
+Sentence 47: The BJP formed a government briefly in 1996; it was followed by two comparatively long-lasting United Front coalitions, which depended on external support.
+Enter question: When did the BJP form a government and what was it followed by?
+
+Sentence 48: It had the support of left-leaning parties and MPs who opposed the BJP.
+Enter question: Which parties and MPs opposed the BJP?
+
+Sentence 49: The incumbent prime minister is Narendra Modi, a former chief minister of Gujarat.
+Enter question: Who is the incumbent prime minister of India?
+
+Sentence 50: Federalism in India defines the power distribution between the union and the states.
+Enter question: In India, what defines the power distribution between the union and the states?
+
+Sentence 51: All states, as well as the union territories of Jammu and Kashmir, Puducherry and the National Capital Territory of Delhi, have elected legislatures and governments following the Westminster system of governance.
+Enter question: Which system of governance has been followed by all states and union territories to elect legislatures and governments?
+
+Sentence 52: In the 1950s, India strongly supported decolonisation in Africa and Asia and played a leading role in the Non-Aligned Movement.
+Enter question: In the 1950s, what was the role played by India in decolonisation in Africa and Asia?
+
+Sentence 53: In the late 1980s, the Indian military twice intervened abroad at the invitation of the host country: a peace-keeping operation in Sri Lanka between 1987 and 1990; and an armed intervention to prevent a 1988 coup d'état attempt in the Maldives.
+Enter question: In which countries has the Indian military intervened at the invitation of a host country?
+
+Sentence 54: The nation has provided 100,000 military and police personnel to serve in 35 UN peacekeeping operations across four continents.
+Enter question: What was the nation provided to serve in 35 UN peacekeeping operations across four continents?
+
+Sentence 55: India conducted its first nuclear weapons test in 1974 and carried out additional underground testing in 1998.
+Enter question: When did India conduct its first nuclear weapons test and underground testing?
+
+Sentence 56: Other indigenous military projects involve the design and implementation of Vikrant-class aircraft carriers and Arihant-class nuclear submarines.
+Enter question: What are some other indigenous military projects in aircrafts and submarines?
+
+Sentence 57: As a consequence, India became the sixth de facto nuclear weapons state.
+Enter question: Which rank does India hold with respect to becoming a nuclear weapons state?
+
+Sentence 58: The official Indian defence budget for 2011 was US$36.03 billion, or 1.83% of GDP.
+Enter question: What was the official Indian defence budget for 2011?
+
+Sentence 59: As of 2012[update], India is the world's largest arms importer; between 2007 and 2011, it accounted for 10% of funds spent on international arms purchases.
+Enter question: India accounted for what percent of funds spent on international arms purchases between 2007 and 2011?
+
+Sentence 60: According to the International Monetary Fund (IMF), the Indian economy in 2019 was nominally worth $2.9 trillion; it is the fifth-largest economy by market exchange rates, and is around $11 trillion, the third-largest by purchasing power parity, or PPP.
+Enter question: According to the International Monetary Fund (IMF), the Indian economy in 2019 was nominally worth how much?
+
+Sentence 61: Widespread state intervention and regulation largely walled the economy off from the outside world.
+Enter question: What factors walled the economy off from the outside world?
+
+Sentence 62: The service sector makes up 55.6% of GDP, the industrial sector 26.3% and the agricultural sector 18.1%.
+Enter question: How is the GDP distribution with respect to the service sector, industrial sector and agricultural sector?
+
+Sentence 63: In 2006, the share of external trade in India's GDP stood at 24%, up from 6% in 1985.
+Enter question:  In 2006, the share of external trade in India's GDP was what percent?
+
+Sentence 64: Between 2001 and 2011, the contribution of petrochemical and engineering goods to total exports grew from 14% to 42%.
+
+Enter question: Between 2001 and 2011, the contribution of petrochemical and engineering goods to total exports grew by what percent?
+
+Sentence 65: Though ranking 51st in global competitiveness, as of 2010[update], India ranks 17th in financial market sophistication, 24th in the banking sector, 44th in business sophistication, and 39th in innovation, ahead of several advanced economies.
+Enter question: What is the ranking of India in global competitiveness, financial market sophistication, banking sector, business sophistication and innovation?
+
+Sentence 66: It is expected to grow to US$2,358 by 2020.
+Enter question: By how much is it expected to grow by 2020?
+
+Sentence 67: During the next four decades, Indian GDP is expected to grow at an annualised average of 8%, making it potentially the world's fastest-growing major economy until 2050.
+Enter question: During the next four decades, Indian GDP is expected to grow at what annualised average?
+
+Sentence 68: India's telecommunication industry, the world's fastest-growing, added 227 million subscribers during the period 2010–2011, and after the third quarter of 2017, India surpassed the US to become the second largest smartphone market in the world after China.
+Enter question: When did India surpass the US to become the second largest smartphone market in the world after China?
+
+Sentence 69: The pharmaceutical industry in India is among the significant emerging markets for the global pharmaceutical industry.
+Enter question: Which industry in India is among the significant emerging markets for the global pharmaceutical industry?
+
+Sentence 70: The Indian biotech industry grew by 15.1% in 2012–2013, increasing its revenues from ₹204.4 billion (Indian rupees) to ₹235.24 billion (US$3.94 billion at June 2013 exchange rates).
+Enter question: The Indian biotech industry grew by what amount in 2012-2013?
+
+Sentence 71: Under the World Bank's later revised poverty line, it was 21% in 2011.
+Enter question: Where was India as per the World Bank's later revised poverty line?
+
+Sentence 72: According to a 2016 Walk Free Foundation report there were an estimated 18.3 million people in India, or 1.4% of the population, living in the forms of modern slavery, such as bonded labour, child labour, human trafficking, and forced begging, among others.
+Enter question: What percent of the people or population in India lived in the forms of modern slavery such bonded labour in 2016?
+
+Sentence 73: According to the Corruption Perceptions Index, India ranked 78th out of 180 countries in 2018 with a score of 41 out of 100, an improvement from 85th in 2014.
+Enter question: How does India rank in the Corruption Perceptions Index?
+
+Sentence 74: The median age was 27.6 as of 2016[update].
+Enter question: What was the median age of Indians as of 2016?
+
+Sentence 75: There are around 50 physicians per 100,000 Indians.
+Enter question: How many physicians are there per 100,000 Indians?
+
+Sentence 76: The level of urbanisation increased further from 27.81% in the 2001 Census to 31.16% in the 2011 Census.
+Enter question: By how much did the level of urbanisation increase from the 2001 Census to the 2011 Census?
+
+Sentence 77: The rural-urban literacy gap, which was 21.2 percentage points in 2001, dropped to 16.1 percentage points in 2011.
+Enter question: From 2001 to 2011, how did the rural-urban literacy gap perform?
+
+Sentence 78: Other languages spoken in India come from the Austroasiatic and Sino-Tibetan language families.
+Enter question: From what families do the other languages spoken in India come from?
+
+Sentence 79: Each state and union territory has one or more official languages, and the constitution recognises in particular 22 "scheduled languages".
+Enter question: How many scheduled languages does the constitution recognise?
+
+Sentence 80: During the Vedic period (c. 1700 – c. 500 BCE), the foundations of Hindu philosophy, mythology, theology and literature were laid, and many beliefs and practices which still exist today, such as dhárma, kárma, yóga, and mokṣa, were established.
