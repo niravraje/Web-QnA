@@ -77,6 +77,9 @@ def prepare_model():
 
 def generate_context(url, question):
     
+    # Get the question token count
+    question_token_count = len(nltk.word_tokenize(question))
+
     # Get the sentence tokens for the entire article text.
     article_sentences = get_sentence_tokens(url)
     
@@ -97,7 +100,7 @@ def generate_context(url, question):
     # Choose max_token_count such that total token count (question and context) is < 512.\
     context_list = []
     context_token_count = 0
-    max_token_count = 400
+    max_token_count = 400 - question_token_count
 
     for sent_index, similarity_score in most_sim_sentences:
         sent_token_count = len(nltk.word_tokenize(article_sentences[sent_index]))
