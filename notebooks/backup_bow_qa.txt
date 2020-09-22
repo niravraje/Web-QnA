@@ -242,3 +242,62 @@ Sentence 79: Each state and union territory has one or more official languages, 
 Enter question: How many scheduled languages does the constitution recognise?
 
 Sentence 80: During the Vedic period (c. 1700 – c. 500 BCE), the foundations of Hindu philosophy, mythology, theology and literature were laid, and many beliefs and practices which still exist today, such as dhárma, kárma, yóga, and mokṣa, were established.
+Enter question: When were the foundations of Hindu philosophy, mythology such as dharma, karma established?
+
+Sentence 81: Vernacular architecture is also regional in its flavours.
+Enter question: How does vernacular architecture exist in India?
+
+Sentence 82: Indo-Saracenic Revival architecture, developed by the British in the late 19th century, drew on Indo-Islamic architecture.
+Enter question: Which architecture  developed by the British drew on Indo-Islamic architecture?
+
+Sentence 83: From the 14th to the 18th centuries, India's literary traditions went through a period of drastic change because of the emergence of devotional poets like Kabīr, Tulsīdās, and Guru Nānak.
+Enter question: When and why did India's literary traditions go through a period of drastic change?
+
+Sentence 84: Indian music ranges over various traditions and regional styles.
+Enter question: What is the range of Indian music?
+
+Sentence 85: Among the better-known folk dances are: the bhangra of Punjab, the bihu of Assam, the Jhumair and chhau of Jharkhand, Odisha and West Bengal, garba and dandiya of Gujarat, ghoomar of Rajasthan, and the lavani of Maharashtra.
+Enter question: Which are the better-known folk dances of each state in India?
+
+Sentence 86: Often based on Hindu mythology, but also borrowing from medieval romances or social and political events, Indian theatre includes: the bhavai of Gujarat, the jatra of West Bengal, the nautanki and ramlila of North India, tamasha of Maharashtra, burrakatha of Andhra Pradesh, terukkuttu of Tamil Nadu, and the yakshagana of Karnataka.
+Enter question: What are the characteristics of India theatres which borrow from medieval romances or social and political events?
+
+Sentence 87: The Hindi language film industry (Bollywood) is the largest sector representing 43% of box office revenue, followed by the South Indian Telugu and Tamil film industries which represent 36% combined.
+Enter question: In the Indian film industry, which is the largest sector representing box office revenue?
+
+Sentence 88: Today, television is the most penetrative media in India; industry estimates indicate that as of 2012[update] there are over 554 million TV consumers, 462 million with satellite or cable connections compared to other forms of mass media such as the press (350 million), radio (156 million) or internet (37 million).
+Enter question: Which is the most penetrative media in India and how many consumers does it have?
+
+Sentence 89: India declared untouchability to be illegal in 1947 and has since enacted other anti-discriminatory laws and social welfare initiatives.
+Enter question: When did India declare untouchability to be illegal?
+
+Sentence 90: Marriage is thought to be for life, and the divorce rate is extremely low, with less than one in a thousand marriages ending in divorce.
+Enter question: What are the views in terms of marriage and divorce and what is the divorce rate in India?
+
+Sentence 91: Despite a government ban on sex-selective foeticide, the practice remains commonplace in India, the result of a preference for boys in a patriarchal society.
+Enter question: What practice remains commonplace in India despite a government ban on sex-selective foeticide?
+
+Sentence 92: The best known include: Diwali, Ganesh Chaturthi, Thai Pongal, Holi, Durga Puja, Eid ul-Fitr, Bakr-Id, Christmas, and Vaisakhi.
+Enter question: Along with Diwali, Christmas, which are India's best known festivals
+
+Sentence 93: In its more modern form, it has been used to cover the head, and sometimes the face, as a veil.
+Enter question: What has been used to cover the head and face as a veil?
+
+Sentence 94: In south India, it is usually wrapped around the lower body, the upper end tucked in the waistband, the lower left free.
+Enter question: Where is it usually wrapped around the lower body?
+
+Sentence 95: The arrival of the Kushans from Central Asia, circa 48 CE, popularised cut and sewn garments in the style of Central Asian favoured by the elite in northern India.
+Enter question: Whose arrival popularised cut and sewn garments in the style of Central Asian which are favoured by the elite in north India?
+
+
+Sentence 96: Shalwars are atypically wide at the waist but narrow to a cuffed bottom.
+Enter question: What are Shalwars?
+
+Sentence 97: The side seams are left open below the waist-line,), which gives the wearer greater freedom of movement.
+Enter question: What gives the wearer of this cloth a greater freedom of movement?
+
+Sentence 98: A kurta, which traces its roots to Central Asian nomadic tunics, has evolved stylistically in India as a garment for everyday wear as well as for formal occasions.
+Enter question: How has a kurta, which traces its roots to Central Asia, evolved in India and on what occasions is it worn?
+
+Sentence 99: Increasingly, in urban settings in northern India, the sari is no longer the apparel of everyday wear, transformed instead into one for formal occasions.
+Enter question: In urban settings in northern India, what is the apparel for formal occasions?
