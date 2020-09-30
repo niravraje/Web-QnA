@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>About</title>
+</head>
+
+<body>
+    {% extends "template.html" %}
+    {% block content %}
+
+    <center><h1> Web QnA </h1></center>
+
+    <div class="container">
+        <form>
+      
+            <label for="inputURL">URL</label>
+            <input type="text" id="inputURL" name="inputURL" value="{{ result_url }}" disabled>
+
+            <label for="inputQuestion">Question</label>
+            <input type="text" id="inputQuestion" name="inputQuestion" value="{{ result_question }}" disabled>
+
+            <label for="selectModel">Select Model</label>
+            <select id="selectModel" name="selectModel">
+            <option value="distilbert-generic">DistilBERT Base Uncased - Generic</option>
+            <option value="distilbert-medical">DistilBERT Base Uncased - Medical</option>
+            </select>
+
+            <label for="displayAnswer">Answer</label>
+            <textarea id="displayAnswer" name="displayAnswer" style="height:100px" disabled>{{ result_answer }}</textarea>
+            
+            <input type="submit" value="Submit" disabled>
+      
+        </form>
+      </div>
+
+
+
+
+    {% endblock %}
+</body>
+
+</html>

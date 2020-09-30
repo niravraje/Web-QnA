@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Home Page</title>
+</head>
+
+<body>
+  {% extends "template.html" %}
+  {% block content %}
+
+  <center><h1> Web QnA </h1></center>
+
+<div class="container">
+  <form action="{{ url_for('handle_data') }}" method="post">
+
+    <label for="inputURL">URL</label>
+    <input type="text" id="inputURL" name="inputURL" placeholder="URL">
+
+    <label for="inputQuestion">Question</label>
+    <input type="text" id="inputQuestion" name="inputQuestion" placeholder="Your question..">
+
+    <label for="inferenceModel">Select Model</label>
+    <select id="inferenceModel" name="inferenceModel">
+      <option value="distilbert-base">DistilBERT Base Uncased - Generic</option>
+      <option value="tfidf">DistilBERT Base Uncased - Medical</option>
+    </select>
+
+    <label for="resultAnswer">Answer</label>
+    <textarea id="resultAnswer" name="resultAnswer" style="height:100px" value="pred_ans" disabled></textarea>
+
+    <input type="submit" value="Submit">
+
+  </form>
+</div>
+
+
+  {% endblock %}
+</body>
+
+</html>
