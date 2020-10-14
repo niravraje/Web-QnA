@@ -18,6 +18,14 @@
             resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
         }
 
+        input:disabled {
+            background-color: #ffffff;
+        }
+
+        textarea:disabled {
+            background-color: #ffffff;
+        }
+
         /* Style the submit button with a specific background color etc */
         input[type=submit] {
             background-color: #4CAF50;
@@ -43,6 +51,14 @@
 </head>
 
 <body>
+    <button onclick="redirectToHome()">Home</button>
+
+    <script>
+        function redirectToHome() {
+            location.replace("{{ url_for('home') }}")
+        }
+    </script>
+
     <!-- <header>
         <div class="container">
             <h1 class="logo">Menu</h1>
