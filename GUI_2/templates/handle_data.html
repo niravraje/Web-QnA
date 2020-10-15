@@ -30,13 +30,17 @@
             <label for="displayAnswer">Answer</label>
             <textarea id="displayAnswer" name="displayAnswer" style="height:100px" disabled>{{ result_answer }}</textarea>
             
-            <input type="submit" value="Submit" disabled>
-      
+            <!-- <input type="submit" value="Submit" disabled> -->
+            
         </form>
-      </div>
+        <button onclick="redirectToHome()">Ask Again</button>
+    </div>
 
-
-
+    <script>
+        function redirectToHome() {
+            location.replace("{{ url_for('home') }}")
+        }
+    </script>
 
     {% endblock %}
 </body>
